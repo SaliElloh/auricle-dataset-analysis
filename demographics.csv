@@ -1,0 +1,71 @@
+ID,Cohort,Participant,Age,Gender,Height (cm),Weight (kg),Previous Myocardial Infarction,Previous Hypertension,Previous Diabetes Mellitus,Previous Atrial Fibrillation,Implantable Cardioverter Defibrillator,Cardiac Resynchronisation Therapy,Heart Failure Aetiology,LV ejection fraction,NYHA Class,Aspirin,Other anti-platelet,Anticoagulation,Beta-adrenoceptor antagonist,Beta-adrenoceptor antagonist dose (mg),Hypertension medications,Diuretic,Diuretic dose (mg)
+HC_1,HC,1,35,male,178,64,,,,,,,,,,,,,,,,,
+HC_2,HC,2,32,female,172,71.7,,,,,,,,,,,,,,,,,
+HC_3,HC,3,36,female,163,88,,,,,,,,,,,,,,,,,
+HC_4,HC,4,35,male,180,86.9,,,,,,,,,,,,,,,,,
+HC_5,HC,5,22,female,161,65.5,,,,,,,,,,,,,,,,,
+HC_6,HC,6,22,female,160,63,,,,,,,,,,,,,,,,,
+HC_7,HC,7,22,male,181,60,,,,,,,,,,,,,,,,,
+HC_8,HC,8,22,female,163,67.1,,,,,,,,,,,,,,,,,
+HC_9,HC,9,25,male,170,70.4,,,,,,,,,,,,,,,,,
+HC_10,HC,10,23,male,179,87,,,,,,,,,,,,,,,,,
+HC_11,HC,11,22,female,171,65.6,,,,,,,,,,,,,,,,,
+HC_12,HC,12,24,female,163,55.7,,,,,,,,,,,,,,,,,
+HC_13,HC,13,24,male,184,89,,,,,,,,,,,,,,,,,
+HC_14,HC,14,43,female,160,90,,,,,,,,,,,,,,,,,
+HC_15,HC,15,26,female,165,55,,,,,,,,,,,,,,,,,
+HC_16,HC,16,22,female,154,58.7,,,,,,,,,,,,,,,,,
+HC_17,HC,17,55,male,167,57.2,,,,,,,,,,,,,,,,,
+HC_18,HC,18,51,female,162,70.04,,,,,,,,,,,,,,,,,
+HC_19,HC,19,22,female,160,45,,,,,,,,,,,,,,,,,
+HC_20,HC,20,22,male,173,77.6,,,,,,,,,,,,,,,,,
+HC_21,HC,21,27,female,164,47,,,,,,,,,,,,,,,,,
+HC_22,HC,22,28,female,170,77,,,,,,,,,,,,,,,,,
+HC_23,HC,23,19,female,163,48.9,,,,,,,,,,,,,,,,,
+HC_24,HC,24,20,male,167,61,,,,,,,,,,,,,,,,,
+HC_25,HC,25,23,female,160,50.4,,,,,,,,,,,,,,,,,
+HC_26,HC,26,20,male,187,68.9,,,,,,,,,,,,,,,,,
+HC_27,HC,27,19,female,163,51,,,,,,,,,,,,,,,,,
+HC_28,HC,28,23,male,178,96.6,,,,,,,,,,,,,,,,,
+HC_29,HC,29,57,male,188,106,,,,,,,,,,,,,,,,,
+HC_30,HC,30,33,male,179,80.4,,,,,,,,,,,,,,,,,
+HC_31,HC,31,32,female,168,61.9,,,,,,,,,,,,,,,,,
+HC_32,HC,32,30,male,188,110.2,,,,,,,,,,,,,,,,,
+HC_33,HC,33,22,male,185,112.4,,,,,,,,,,,,,,,,,
+HC_34,HC,34,21,male,175,72.6,,,,,,,,,,,,,,,,,
+HC_35,HC,35,22,female,157,47.6,,,,,,,,,,,,,,,,,
+HC_36,HC,36,21,male,170,71,,,,,,,,,,,,,,,,,
+HC_37,HC,37,21,male,180,67.5,,,,,,,,,,,,,,,,,
+HC_38,HC,38,19,male,178,83,,,,,,,,,,,,,,,,,
+HC_39,HC,39,24,male,175,85,,,,,,,,,,,,,,,,,
+HC_40,HC,40,22,male,181,79,,,,,,,,,,,,,,,,,
+HC_41,HC,41,25,female,173,65,,,,,,,,,,,,,,,,,
+HC_42,HC,42,37,female,168,70,,,,,,,,,,,,,,,,,
+HFC_148,HFC,148,57,male,180,90.5,absent,absent,absent,absent,absent,absent,NOT FOUND,25.00%,NOT FOUND,NOT FOUND,NOT FOUND,N/A,Metoprolol,62.5 twice daily,Ramipril,Furosemide,40 twice daily
+HFC_147,HFC,147,61,female,163,111,absent,present,absent,absent,present,absent,Idiopathic cardiomyopathy,51.00%,2,NOT FOUND,absent,Apixaban,N/A,N/A,N/A,N/A,N/A
+HFC_129,HFC,129,62,male,184,101,absent,absent,absent,present,present,present,Idiopathic cardiomyopathy,NOT FOUND,2,NOT FOUND,absent,Warfarin,Metoprolol,50,N/A,Furosemide,40
+HFC_142,HFC,142,67,female,150,81,absent,present,absent,present,absent,absent,Idiopathic cardiomyopathy,53.00%,2,NOT FOUND,absent,Apixaban,Bisoprolol,2.5,N/A,N/A,N/A
+HFC_134,HFC,134,56,female,166,71,absent,absent,absent,absent,absent,absent,Idiopathic cardiomyopathy,54.00%,1,absent,absent,N/A,Bisoprolol,5,N/A,N/A,N/A
+HFC_139,HFC,139,39,male,168,72,absent,absent,absent,absent,present,absent,Ischaemic heart disease,33.00%,1,NOT FOUND,absent,Apixaban,Carvedilol,18.75,N/A,N/A,N/A
+HFC_121,HFC,121,21,male,158,64,absent,absent,absent,absent,absent,absent,Idiopathic cardiomyopathy,45.00%,1,NOT FOUND,absent,N/A,N/A,N/A,N/A,N/A,N/A
+HFC_106,HFC,106,34,male,175,77,present,absent,absent,present,absent,absent,Idiopathic cardiomyopathy,27.00%,1,NOT FOUND,absent,Apixaban,Bisoprolol,1.25,N/A,N/A,N/A
+HFC_103,HFC,103,59,male,173,70,absent,absent,absent,absent,absent,present,Idiopathic cardiomyopathy,21.00%,3,NOT FOUND,absent,Apixaban,Bisoprolol,5,N/A,N/A,N/A
+HFC_145,HFC,145,48,male,165,141,absent,absent,absent,present,present,present,Idiopathic cardiomyopathy,49.00%,4,NOT FOUND,absent,N/A,Carvedilol,25,N/A,N/A,N/A
+HFC_144,HFC,144,63,male,160,69,NOT FOUND,absent,absent,present,present,NOT FOUND,Idiopathic cardiomyopathy,17.00%,2,NOT FOUND,absent,Edoxaban,Bisoprolol,7.5 twice daily,N/A,Furosemide,20
+HFC_114,HFC,114,31,male,194,96,absent,absent,absent,absent,absent,absent,Other (familial cardiomyopathy),49.00%,1,NOT FOUND,absent,N/A,Bisoprolol,N/A,N/A,N/A,N/A
+HFC_117,HFC,117,28,male,163,67.1,absent,absent,absent,absent,present,absent,Other (hypertrophic cardiomyopathy),55.00%,3,NOT FOUND,absent,N/A,Bisoprolol,10,N/A,N/A,N/A
+HFC_108,HFC,108,79,male,184,92.5,absent,absent,absent,present,present,absent,Other (cardiac sarcoid),39.00%,1,NOT FOUND,absent,Apixaban,Carvedilol,50,Ramipril,N/A,N/A
+HFC_111,HFC,111,61,female,170,105.5,absent,present,present,present,present,present,Other (cardiac sarcoid),30.00%,1,NOT FOUND,absent,Rivaroxoban,Carvedilol,65,"Sacubitril-valsartan, spironolactone",Furosemide,20
+HFC_131,HFC,131,68,female,169,71,absent,absent,absent,present,absent,absent,Other (non-ischemic cardiomyopathy),52%,1,NOT FOUND,absent,Apixaban,Bisoprolol,10,"Sacubitril-valsartan, spironolactone",N/A,N/A
+HFC_146,HFC,146,48,male,183,96,absent,absent,absent,present,absent,absent,Other (non-ischemic cardiomyopathy),25.00%,1,NOT FOUND,absent,Apixaban,Bisoprolol,7.5,"Sacubitril-valsartan, spironolactone",N/A,N/A
+HFC_101,HFC,101,39,female,162,67.9,absent,absent,absent,absent,present,absent,Other (non-ischemic cardiomyopathy),42.00%,1,NOT FOUND,absent,N/A,N/A,160,"Sacubitril-valsartan, Spironolactone",N/A,N/A
+HFC_132,HFC,132,62,male,178,88.3,present,present,present,present,present,present,Ischaemic heart disease,28.00%,2,NOT FOUND,absent,Apixaban,Bisoprolol,10,"Spironolactone, sacubitril-valsartan",Furosemide,20
+HFC_133,HFC,133,49,male,167,110,absent,present,present,absent,absent,absent,Other (nonischemic cardiomyopathy),62.00%,1,NOT FOUND,absent,N/A,Bisoprolol,10,Sacubitril-valsartan,Furosemide,20
+HFC_110,HFC,110,55,female,155,67,absent,present,absent,absent,absent,absent,Other ,58.00%,2,NOT FOUND,absent,N/A,Bisoprolol,5,"Ramipril, spironolactone",Furosemide,160
+HFC_102,HFC,102,54,male,180,94.6,absent,absent,absent,absent,absent,absent,Idiopathic cardiomyopathy,50.00%,1,NOT FOUND,absent,N/A,Bisoprolol,5,"Candesartan, spironolactone",N/A,N/A
+HFC_124,HFC,124,33,male,172,78.5,absent,absent,present,absent,absent,absent,Ischaemic heart disease,38.00%,1,NOT FOUND,absent,N/A,Bisoprolol,15,Sacubitril-valsartan,Furosemide,20
+HFC_126,HFC,126,75,male,174,77,absent,absent,absent,present,absent,absent,NOT FOUND,24.00%,NOT FOUND,absent,absent,N/A,Bisoprolol,,N/A,N/A,
+HFC_116,HFC,116,60,male,178,62,absent,present,absent,absent,absent,absent,NOT FOUND,39.00%,1,absent,absent,N/A,Carvedilol,,N/A,Furosemide,20
+HFC_118,HFC,118,57,male,149,44.5,present,absent,present,absent,absent,absent,Ischaemic heart disease,34.00%,2,absent,present,Apixaban,Bisoprolol,10,"Sacubitril/valsartan, sprinolactone",Furosemide,40
+HFC_141,HFC,141,29,male,174,92,absent,absent,absent,absent,absent,absent,Other – Other (dilated cardiomyopathy),NOT FOUND,2,absent,absent,N/A,Bisoprolol,10,"Spironolactone, sacubitril-valsartan",Furosemide,40
+HFC_149,HFC,149,39,female,170,64,absent,present,present,present,present,absent,Other (dilated cardiomyopathy),27.00%,3,present,absent,N/A,Bisoprolol,1.25,"Spironolactone, sacubitril-valsartan",N/A,N/A
